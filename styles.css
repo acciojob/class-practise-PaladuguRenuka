@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.selector{
+	font-family: Arial;
+	font-size: 20px;
+	font-color: blue;
+	background-color: #eee
+}
